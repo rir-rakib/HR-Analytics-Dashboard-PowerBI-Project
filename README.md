@@ -44,6 +44,7 @@ This dashboard helps HR managers and business leaders answer critical questions 
 ## 🛠️ Tools Used
 
 - Power BI Desktop
+- Power Query (for data processing)
 - DAX for KPI calculations
 
 ---
